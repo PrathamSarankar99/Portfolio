@@ -1,0 +1,33 @@
+hosted: false
+
+# This is a configuration file which has the information about the server
+
+local_server: 
+  host: 'localhost'
+  user: 'PrathamSarankar'
+  password: 'SuedaPratham@23'
+  database_name: 'prathamsarankar'
+
+host_server:
+  host: 
+  user: 
+  password: 
+  database_name: 
+
+
+params:
+  blog_name: 'Pratham Sarankar'
+  home_title: 'Developer'
+  home_tagline: 'Just start it...'
+  about_title: 'About me'
+  about_tagline: 'This is what I do'
+  contact_title: 'Contact me'
+  contact_tagline: 'Have questions? I have answers.'
+  links:
+    facebook: '#!'
+    twitter: '#!'
+    github: '#!'
+
+gmail:
+  address: 'developer.pratham@gmail.com'
+  password: 'SuedaPratham@23'
